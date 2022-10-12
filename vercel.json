@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/*.rb": {
-      "includeFiles": "api/ruby.rb"
+      "excludeFiles": "!/api"
     }
   }
 }
