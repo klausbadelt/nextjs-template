@@ -1,0 +1,8 @@
+{
+  "functions": {
+    {
+      "api/ruby.rb": {
+        "includeFiles": "api/**/*"
+      },
+  }
+}
